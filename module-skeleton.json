@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-assets-and-facilities-flutter",
+  "capabilityKey": "planned:sap:assets-and-facilities",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_assets_and_facilities_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/assets-and-facilities.md",
+  "presentationPlan": "projects/sap/flutter/assets-and-facilities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
